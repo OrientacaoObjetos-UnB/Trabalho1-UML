@@ -13,7 +13,7 @@
 
 * Uso extensivo da linguagem Java;
 * Uso da IDE Eclipse;
-* Criação, Manipulação e Objetos;
+* Criação, Manipulação de Objetos;
 * Uso de Plataformas de Modelagem de Classes;
 <br>
 
